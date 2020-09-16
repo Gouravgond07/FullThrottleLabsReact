@@ -1,0 +1,7 @@
+.user-list {
+    border: 1px solid #00000042 !important;
+    cursor: pointer;
+  }
+  .user-list:hover {
+    transform: scale(1.05, 1.05);
+  }

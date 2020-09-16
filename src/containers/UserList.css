@@ -1,0 +1,9 @@
+
+.dateSelector:focus {
+  outline: none;
+}
+
+.userModelBody{
+  overflow-y: auto;
+  max-height: 297px;
+}
